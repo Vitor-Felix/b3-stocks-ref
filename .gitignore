@@ -1,0 +1,23 @@
+# Python virtual env
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit temp files
+.streamlit/
+
+# OS/Editor files
+.DS_Store
+*.swp
+*.swo
+
+# VSCode or PyCharm
+.vscode/
+.idea/
